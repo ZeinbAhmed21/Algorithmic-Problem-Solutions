@@ -155,6 +155,6 @@ Is symmetric: False
 ---
 
 ## 👨‍💻 Author
-- **Name:** Ibrahim Hamdy  
+- **Name:** Zeinab Ahmed Anwar
 - **Role:** Helwan National University  
-- **Email:** ihamdy719@gmail.com
+- **Email:** zeinb21ahmed@gmail.com
